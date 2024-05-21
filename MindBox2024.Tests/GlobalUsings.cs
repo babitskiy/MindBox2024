@@ -1,0 +1,1 @@
+﻿global using MindBox2024.Figures;
